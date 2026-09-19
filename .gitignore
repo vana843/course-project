@@ -1,0 +1,65 @@
+# ===== C++ =====
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+*.pdb
+*.idb
+*.ilk
+
+# C++ build directories
+build/
+Debug/
+Release/
+x64/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# ===== Java =====
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+target/
+bin/
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Gradle
+.gradle/
+gradlew
+gradlew.bat
+
+# ===== IDE =====
+.vs/
+.vscode/
+.idea/
+*.iml
+*.user
+*.suo
+nbproject/
+.settings/
+.classpath
+.project
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== Логи и временные файлы =====
+*.log
+*.tmp
+*.bak
+build/
