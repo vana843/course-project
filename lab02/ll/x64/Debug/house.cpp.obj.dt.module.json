@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ll\\x64\\Debug\\house.cpp.obj.dt.obj",
+            "outputs": [
+                "ll\\x64\\Debug\\house.cpp.obj.dt.module.json",
+                "ll\\x64\\Debug\\house.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
